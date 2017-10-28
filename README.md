@@ -1,1 +1,1 @@
-## Static Page https://balekode.github.io
+## Static page https://balekode.github.io/
