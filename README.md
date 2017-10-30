@@ -1,1 +1,1 @@
-## Static page https://balekode.github.io/
+# Static Page For Bale Kode 
